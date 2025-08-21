@@ -51,7 +51,7 @@ For easy handling and monitoring, VisionGraspNet includes the **RoboRetriever** 
 
 _Figure 2: The RoboRetriever Web Interface (demo video)_
 
-![Demo animation](https://raw.githubusercontent.com/<owner>/<repo>/master/docs/Demo.gif)
+![Demo animation](https://raw.githubusercontent.com/matthiaspetry/VisionGraspNet/master/docs/Demo.gif)
 
 
 If the embed doesn’t render on GitHub, watch the video here:
