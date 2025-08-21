@@ -45,7 +45,7 @@ _Figure 1: High-Level Overview of the VisionGraspNet Architecture_
 For easy handling and monitoring, VisionGraspNet includes the **RoboRetriever** web dashboard. This interface allows a user to connect to, control, and visualize the entire robotic system remotely.
 
 <video controls width="720">
-    <source src="docs/Demo.mov" type="video/quicktime">
+    <source src="docs/Demo.mp4" type="video/quicktime">
     Your browser does not support the video tag. Download the demo: [Demo.mov](docs/Demo.mov)
 </video>
 
